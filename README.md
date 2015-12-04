@@ -10,6 +10,6 @@ The data frame has 4 columns
 | 2015-11-26 21:20:00          | 18.104              | 3.21                        | 1.66                      |
 | ..                           | ..                  | ..                          | ..                        |
 
-This is a speedtest for 1 Week. Testing every 10 Minutes.
+This is a speedtest for 1 week. Testing every 10 minutes.
 
 
